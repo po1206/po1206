@@ -1,5 +1,66 @@
 # 💫 About Me:
-I create high-quality software and I’m loving it 💫<br><br>As a skilled full-stack developer with years of experience under my belt, I am confident in my ability to provide top-notch solutions to meet your business needs. My attention to detail, strong communication skills, and ability to work collaboratively make me a valuable asset to any project.<br><br><br>SKILLS:<br><br><br>📌JS Frameworks: React.js, Nest.js, Next.js, Vue.js, Anguar.js<br><br>📌Backend: R, Go, Rust, Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless<br><br>📌Frontend: TypeScript, Redux, Redux Toolkit, SSR/CSR, Redux-Query, RTK Query, Storybook, SASS/LESS, CSS3/HTML5<br><br>📌API Integration: Stripe, AWS [S3, EC2, SES, SQS, Lambda] Google, Facebook, PayPal<br><br>📌Non-Technical: Agile, JIRA, ClickUp, Trello, WebStorm, VS Code, Redmine, GitHub<br><br><br>WHEN WORKING WITH ME, YOU CAN EXPECT:<br><br>✅ A commitment to excellence: I take pride in delivering high-quality work that meets and exceeds your expectations.<br><br>✅ Clear communication: I understand the importance of staying in touch and keeping you informed every step of the way.<br><br>✅ Timely delivery: I respect deadlines and will work diligently to ensure that your project is completed on time.<br><br>✅ Attention to detail: I am meticulous in my work, paying close attention to every detail. I’m also very good at taking notes of everything that is important.<br><br>✅ A Team Spirit approach: I’m team player and I believe that great things are not built by just single person. I’m very collaborative with every stakeholder or team member.<br><br><br><br>If that sounds well to you - let’s talk then 😉
+In all these years, I’ve worked on refining my skills and also keeping myself updated with new tools and technologies to always be ahead of the curve. I am an expert in PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, DevOps, back-of-house operations, performance auditing, coding standards, version control, single-page applications, and much more. My entire tech stack looks like
+
+My services includes:
+================
+Full-Stack Services:<br>
+👉 React: Redux Thunk, Redux Saga, Mobx, Hooks, Context, Gatsby, Next, Styled Component<br>
+👉 Angular: Angular 1.x, Angular 2+, NgRx, Angular Dart, Angular Universal<br>
+👉 Backend: Node.js, Express.js, PHP Laravel<br>
+👉 Vue: Vuex, Vuetify, Vue-Router, Mixins, Nuxt<br>
+👉 Database: MongoDB, MySQL, Postgres, DynamoDB<br>
+👉 Mobile: React Native, NativeScript, Ionic, Flutter, Cordova, Framework 7<br>
+👉 UI Frameworks: BootStrap, Material UI, Kendo UI, Semantic UI, Bulma<br>
+👉 Cloud Services:<br>
+👉 AWS: EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, Cognito<br>
+👉 Firebase: Firestore, Real-time Database, Hosting, Cloud functions, Crashlytics, Cloud Messaging<br>
+👉 Tools: Webpack, Gulp, Browserify, Babel<br>
+👉 Agile Tools: Git, Trello, Jira<br>
+👉 VE: Docker, Kubernetes<br>
+
+Blockchain Development Services:<br>
+👉 Custom Blockchain Development<br>
+👉 Smart Contracts Development<br>
+👉 dApps Development<br>
+👉 Crypto App Development<br>
+👉 ICO Web Development<br>
+👉 POC Development<br>
+👉 Cryptocurrency Wallet and Exchange Applications<br>
+👉 Blockchain Consulting<br>
+👉 Blockchain Testing<br>
+👉 Ongoing Blockchain Development Support and Maintenance<br>
+👉 Full-Stack Blockchain Development<br>
+👉 Full Time Dedicated Blockchain Developer<br>
+
+SKILLS ⭐<br>
+✅ Engine: Unity | Unreal 5<br>
+✅ AR /VR: Oculus VR | ARKit | ARCore | ARFoundation | Vuforia | Firebase | Mapbox<br>
+✅ Server: Microsoft PlayFab | AWS | Azure<br>
+✅ Multiplayer: Photon Fusion | Fish Networking | Mirror<br>
+✅ Languages: C# | C++ | Blueprints | Typescript | Javascript | PHP | JSON<br>
+✅ Blockchain: Smart Contract | NFT | Solidity<br>
+✅ Database: MySQL | SQL | NoSQL | Firebase<br>
+✅ Version Control: BitBucket | Git | Source Tree<br>
+✅ Advertisement: InApps | Push Notifications | Ad Network Mediations<br>
+✅ Build Platforms: PC | VR | Android | iOS<br>
+
+CAN OFFER FOLLOWING SERVICES 🙏<br>
+🔥 Сross-Platform 2D/3D Game Development (iOS, Android, PC, WebGL, VR)<br>
+🔥 VR development<br>
+🔥 AR development<br>
+🔥 Multiplayer/networking features to the game<br>
+🔥 Game AI programming<br>
+🔥 Setup Game Services :<br>
+- Analytics(Unity Analytics,Firebase Analytics)<br>
+- Advertising(Unity Ads, AdColony, Ad Mob, Chartboost,MoPub)<br>
+- In-App Purchases(App Store, Google Play, Amazon Apps, Steam)<br>
+- Social platforms(Facebook, Instagram, Twitter)<br>
+🔥 Reviewing and Designing functional aspects of UI and UX<br>
+🔥 Adding Support for new Platforms<br>
+🔥 Diagnosing and Fixing Bugs<br>
+🔥 Performance, Load Time and Memory Optimization<br>
+🔥 Developing Interactive Games<br>
+🔥 Developing Music Dependent Games<br>
 
 
 # 💻 Tech Stack:
