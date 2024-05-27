@@ -30,7 +30,6 @@ SKILLS ⭐<br>
 
 
 # 💻 Tech Stack:
-<details>
  <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -80,7 +79,6 @@ SKILLS ⭐<br>
 
 </td></tr></table>
 
-</details>
 
 
 ### ✍️ Random Dev Quote
