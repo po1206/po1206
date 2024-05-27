@@ -1,9 +1,7 @@
 # 💫 About Me:
 In all these years, I’ve worked on refining my skills and also keeping myself updated with new tools and technologies to always be ahead of the curve. I am an expert in PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, DevOps, back-of-house operations, performance auditing, coding standards, version control, single-page applications, and much more. My entire tech stack looks like
-
+https://github.com/po1206/po1206/blob/main/README.md
 My services includes:
-================
-Full-Stack Services:<br>
 👉 React: Redux Thunk, Redux Saga, Mobx, Hooks, Context, Gatsby, Next, Styled Component<br>
 👉 Angular: Angular 1.x, Angular 2+, NgRx, Angular Dart, Angular Universal<br>
 👉 Backend: Node.js, Express.js, PHP Laravel<br>
@@ -17,20 +15,6 @@ Full-Stack Services:<br>
 👉 Tools: Webpack, Gulp, Browserify, Babel<br>
 👉 Agile Tools: Git, Trello, Jira<br>
 👉 VE: Docker, Kubernetes<br>
-
-Blockchain Development Services:<br>
-👉 Custom Blockchain Development<br>
-👉 Smart Contracts Development<br>
-👉 dApps Development<br>
-👉 Crypto App Development<br>
-👉 ICO Web Development<br>
-👉 POC Development<br>
-👉 Cryptocurrency Wallet and Exchange Applications<br>
-👉 Blockchain Consulting<br>
-👉 Blockchain Testing<br>
-👉 Ongoing Blockchain Development Support and Maintenance<br>
-👉 Full-Stack Blockchain Development<br>
-👉 Full Time Dedicated Blockchain Developer<br>
 
 SKILLS ⭐<br>
 ✅ Engine: Unity | Unreal 5<br>
