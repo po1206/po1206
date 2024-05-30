@@ -1,7 +1,7 @@
 # 💫 About Me:
 In all these years, I’ve worked on refining my skills and also keeping myself updated with new tools and technologies to always be ahead of the curve. I am an expert in PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, DevOps, back-of-house operations, performance auditing, coding standards, version control, single-page applications, and much more.
 
-My services includes:
+My services includes:<br>
 👉 React: Redux Thunk, Redux Saga, Mobx, Hooks, Context, Gatsby, Next, Styled Component<br>
 👉 Angular: Angular 1.x, Angular 2+, NgRx, Angular Dart, Angular Universal<br>
 👉 Backend: Node.js, Express.js, PHP Laravel<br>
