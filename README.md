@@ -1,5 +1,6 @@
 # 💫 About Me:
-In all these years, I’ve worked on refining my skills and also keeping myself updated with new tools and technologies to always be ahead of the curve. I am an expert in PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, DevOps, back-of-house operations, performance auditing, coding standards, version control, single-page applications, and much more. My entire tech stack looks like
+In all these years, I’ve worked on refining my skills and also keeping myself updated with new tools and technologies to always be ahead of the curve. I am an expert in PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, DevOps, back-of-house operations, performance auditing, coding standards, version control, single-page applications, and much more.
+My entire tech stack looks like
 https://github.com/po1206/po1206/blob/main/README.md
 
 My services includes:
