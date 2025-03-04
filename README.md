@@ -16,7 +16,7 @@ My services includes:<br>
 👉 Agile Tools: Git, Trello, Jira<br>
 👉 VE: Docker, Kubernetes<br>
 
-SKILLS ⭐<br>
+SKILLS <br>
 ✅ Engine: Unity | Unreal 5<br>
 ✅ AR /VR: Oculus VR | ARKit | ARCore | ARFoundation | Vuforia | Firebase | Mapbox<br>
 ✅ Server: Microsoft PlayFab | AWS | Azure<br>
