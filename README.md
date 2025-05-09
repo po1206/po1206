@@ -3,33 +3,6 @@ In all these years, I’ve worked on refining my skills and staying updated with
 
 In recent years, I have expanded into the rapidly evolving field of Artificial Intelligence, specializing in AI integration, AI-powered app development, intelligent agent design, AI bots, chatbots, and AI-driven data analysis. I’ve also developed AI-enhanced mobile applications for both Android and iOS platforms, merging advanced AI capabilities with intuitive, cross-platform mobile experiences.
 
-My services includes:<br>
-👉 React: Redux Thunk, Redux Saga, Mobx, Hooks, Context, Gatsby, Next, Styled Component<br>
-👉 Angular: Angular 1.x, Angular 2+, NgRx, Angular Dart, Angular Universal<br>
-👉 Backend: Node.js, Express.js, PHP Laravel<br>
-👉 Vue: Vuex, Vuetify, Vue-Router, Mixins, Nuxt<br>
-👉 Database: MongoDB, MySQL, Postgres, DynamoDB<br>
-👉 Mobile: React Native, NativeScript, Ionic, Flutter, Cordova, Framework 7<br>
-👉 UI Frameworks: BootStrap, Material UI, Kendo UI, Semantic UI, Bulma<br>
-👉 Cloud Services:<br>
-👉 AWS: EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, Cognito<br>
-👉 Firebase: Firestore, Real-time Database, Hosting, Cloud functions, Crashlytics, Cloud Messaging<br>
-👉 Tools: Webpack, Gulp, Browserify, Babel<br>
-👉 Agile Tools: Git, Trello, Jira<br>
-👉 VE: Docker, Kubernetes<br>
-
-SKILLS <br>
-✅ Engine: Unity | Unreal 5<br>
-✅ AR /VR: Oculus VR | ARKit | ARCore | ARFoundation | Vuforia | Firebase | Mapbox<br>
-✅ Server: Microsoft PlayFab | AWS | Azure<br>
-✅ Multiplayer: Photon Fusion | Fish Networking | Mirror<br>
-✅ Languages: C# | C++ | Blueprints | Typescript | Javascript | PHP | JSON<br>
-✅ Blockchain: Smart Contract | NFT | Solidity<br>
-✅ Database: MySQL | SQL | NoSQL | Firebase<br>
-✅ Version Control: BitBucket | Git | Source Tree<br>
-✅ Advertisement: InApps | Push Notifications | Ad Network Mediations<br>
-✅ Build Platforms: PC | VR | Android | iOS<br>
-
 ## 🚀 My Services & Technical Skills
 
 Over the years, I’ve built a diverse and future-ready tech stack. I specialize in building scalable web and mobile applications, with a strong emphasis on **AI technologies** and **cross-platform mobile development**.
@@ -73,7 +46,32 @@ Over the years, I’ve built a diverse and future-ready tech stack. I specialize
 
 ### 📈 Agile & Project Management
 - Git, Jira, Trello, Slack
+- 
+My services includes:<br>
+👉 React: Redux Thunk, Redux Saga, Mobx, Hooks, Context, Gatsby, Next, Styled Component<br>
+👉 Angular: Angular 1.x, Angular 2+, NgRx, Angular Dart, Angular Universal<br>
+👉 Backend: Node.js, Express.js, PHP Laravel<br>
+👉 Vue: Vuex, Vuetify, Vue-Router, Mixins, Nuxt<br>
+👉 Database: MongoDB, MySQL, Postgres, DynamoDB<br>
+👉 Mobile: React Native, NativeScript, Ionic, Flutter, Cordova, Framework 7<br>
+👉 UI Frameworks: BootStrap, Material UI, Kendo UI, Semantic UI, Bulma<br>
+👉 Cloud Services: AWS, EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, Cognito<br>
+👉 Firebase: Firestore, Real-time Database, Hosting, Cloud functions, Crashlytics, Cloud Messaging<br>
+👉 Tools: Webpack, Gulp, Browserify, Babel<br>
+👉 Agile Tools: Git, Trello, Jira<br>
+👉 VE: Docker, Kubernetes<br>
 
+SKILLS <br>
+✅ Engine: Unity | Unreal 5<br>
+✅ AR /VR: Oculus VR | ARKit | ARCore | ARFoundation | Vuforia | Firebase | Mapbox<br>
+✅ Server: Microsoft PlayFab | AWS | Azure<br>
+✅ Multiplayer: Photon Fusion | Fish Networking | Mirror<br>
+✅ Languages: C# | C++ | Blueprints | Typescript | Javascript | PHP | JSON<br>
+✅ Blockchain: Smart Contract | NFT | Solidity<br>
+✅ Database: MySQL | SQL | NoSQL | Firebase<br>
+✅ Version Control: BitBucket | Git | Source Tree<br>
+✅ Advertisement: InApps | Push Notifications | Ad Network Mediations<br>
+✅ Build Platforms: PC | VR | Android | iOS<br>
 
 # 💻 Tech Stack:
  <table><tr><td valign="top" width="33%">
