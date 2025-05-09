@@ -1,5 +1,5 @@
 # 💫 About Me:
-In all these years, I’ve worked on refining my skills and staying updated with emerging tools and technologies to stay ahead of the curve. My expertise spans PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, and DevOps. I’m also well-versed in back-of-house operations, performance auditing, coding standards, version control, and building single-page applications.
+In all these 10 years, I’ve worked on refining my skills and staying updated with emerging tools and technologies to stay ahead of the curve. My expertise spans PHP, MySQL, JavaScript, HTML5/CSS3, Blockchain, Metaverse, Unreal Engine, Unity3D, AR/VR Development, and DevOps. I’m also well-versed in back-of-house operations, performance auditing, coding standards, version control, and building single-page applications.
 
 In recent years, I have expanded into the rapidly evolving field of Artificial Intelligence, specializing in AI integration, AI-powered app development, intelligent agent design, AI bots, chatbots, and AI-driven data analysis. I’ve also developed AI-enhanced mobile applications for both Android and iOS platforms, merging advanced AI capabilities with intuitive, cross-platform mobile experiences.
 
